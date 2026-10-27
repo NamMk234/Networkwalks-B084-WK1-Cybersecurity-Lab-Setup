@@ -198,10 +198,10 @@ This project gave me practical experience with virtual machines, networking, and
 ## 12. Screenshots
 
 ### Task One
-![Task One](taskone.png)
+![Task One](Taskone.png)
 
 ### Kali Setup
-![Kali Setup](kali.png)
+![Kali Setup](Kali.png)
 
 ### Kali Network
 ![Kali Network](kali%20network.png)
