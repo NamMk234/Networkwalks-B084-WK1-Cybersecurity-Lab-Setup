@@ -195,3 +195,16 @@ In conclusion, I set up my cybersecurity lab using Oracle VirtualBox and Kali Li
 I also encountered problems during the process, including Kali Linux startup issues and laptop screen flickering. I worked through these issues and managed to get my lab working.
 
 This project gave me practical experience with virtual machines, networking, and troubleshooting. The lab will provide a starting point for practicing more cybersecurity skills during my internship at NetworkWalks.
+## 12. Screenshots
+
+### Task One
+![Task One](taskone.png)
+
+### Kali Setup
+![Kali Setup](kali.png)
+
+### Kali Network
+![Kali Network](kali%20network.png)
+
+### Network
+![Network](network.png)
